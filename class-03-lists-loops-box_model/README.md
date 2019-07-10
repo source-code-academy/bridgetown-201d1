@@ -1,20 +1,24 @@
 # Class 3: HTML Lists, Control Flow with JS, and the CSS Box Model
 
 <a id="top"></a>
+
 ## Lecture 3
 
 ## Today's Schedule
+
 - Announcements
-- [Code Review](#codereview) *[30 minutes]*
-- [JS Control Flow](#control) *[45 minutes]*
-- [CSS Box Model](#box) *[30 minutes]*
-- Code Demo *[40 minutes]*
+- [Code Review](#codereview) _[15 minutes]_
+- [Lab Preview](#lab) _[15 minutes]_
+- [JS Control Flow](#control) _[30 minutes]_
+- [CSS Box Model](#box) _[30 minutes]_
+- Code Demo _[30 minutes]_
+- [Today's Deliverables](#assignments)
 
 **Learning Objectives**
 
 As a result of completing Lecture 3 of Code 201, students will:
 
-- Demonstrate understanding of and classify assorted control flow techniques in JavaScript including ‘for’ loops, ‘if’ and if/else’, as well as  ‘while’ and ‘do/while’ structures, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and classify assorted control flow techniques in JavaScript including ‘for’ loops, ‘if’ and if/else’, as well as ‘while’ and ‘do/while’ structures, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
 - Demonstrate understanding of and explain what HTML element attributes are and how to use them, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
 - Demonstrate understanding of and illustrate the CSS box model, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
 
@@ -37,7 +41,15 @@ We're not going to go over the chapter on HTML lists in much detail in class, bu
 
 ## Code Review
 
-Let's take about 30 minutes to do our code review session. We're going to look at someone's code, have students read through it and explain it, take questions, and so on. Code review is an important part of professional development processes and also a key part of our learning environment in this course.
+Let's take about 15 minutes to do our code review session. We're going to look at someone's code, have students read through it and explain it, take questions, and so on. Code review is an important part of professional development processes and also a key part of our learning environment in this course.
+
+[-top-](#top)
+
+<a id="lab"></a>
+
+## Lab Preview
+
+Let's take a look at what we'll be trying to achieve today with <a href="lab/README.md">Lab 3</a>.
 
 [-top-](#top)
 
@@ -47,21 +59,22 @@ Let's take about 30 minutes to do our code review session. We're going to look a
 
 **JS Chapter 4: "Decisions & Loops"**
 
-- p.164 	‘Switch’ statements
-- p.166 	Type coercion and weak typing
-- p.167 	Truthy & falsy values
-- p.168 	Checking equality & existence
-- p.169 	Short circuit values
-- p.170 	Loops & loop counters
-- p.172 	Looping
-- p.174 	Key loop concepts (‘break’, ‘continue’)
-- p.175 	Using ‘for’ loops
-- p.176 	Using ‘while’ loops
-- p.177 	Using ‘do...while’ loops
+- p.164 ‘Switch’ statements
+- p.166 Type coercion and weak typing
+- p.167 Truthy & falsy values
+- p.168 Checking equality & existence
+- p.169 Short circuit values
+- p.170 Loops & loop counters
+- p.172 Looping
+- p.174 Key loop concepts (‘break’, ‘continue’)
+- p.175 Using ‘for’ loops
+- p.176 Using ‘while’ loops
+- p.177 Using ‘do...while’ loops
 
 [-top-](#top)
 
 <a id="box"></a>
+
 ## CSS Box Model
 
 **HTML Chapter 13: "Boxes" (CSS)**
@@ -76,3 +89,14 @@ Let's take about 30 minutes to do our code review session. We're going to look a
 
 [-top-](#top)
 
+<a id="assignments"></a>
+
+## Today's Deliverables
+
+- Reading 3
+- Lab3
+- Quiz 1
+- Journal 3
+- Finish any unfinished assignments from before
+
+[-top-](#top)
