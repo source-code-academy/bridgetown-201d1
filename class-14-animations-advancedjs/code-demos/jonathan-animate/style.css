@@ -1,0 +1,63 @@
+body{
+  overflow: hidden;
+}
+h1, h3 {
+  text-align: center;
+}
+
+main {
+  border-style: solid;
+  border-width: thin;
+  width: 900px;
+  height: 450px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  transition: transform 2s;
+}
+
+.left-panel {
+  width: 70%;
+  height: 75%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-panel {
+  width: 30%;
+  height: 75%;
+  overflow: hidden;
+}
+
+img {
+  text-align: center;
+  max-height: 350px;
+  max-width: 350px;
+  transition: all 1s;
+  border-style: solid;
+
+}
+
+img:hover {
+  transform:rotate3d(1, 1, 1, 360deg);
+}
+
+input {
+font-size: 1.5em;
+transition: background-color 1s linear;
+}
+
+input:focus {
+  background-color: salmon;
+}
+
+p {
+  display: none;
+  transform: translateY(1500px);
+}
+
+.animate-right {
+  transform: translateX(1500px);
+}
