@@ -1,20 +1,21 @@
-
 # Class 14: CSS Animations; Intermediate JS Topics; Using Local Storage to Share Data Between Two Pages
 
-
 <a id="top"></a>
+
 ## Lecture 14
 
 ## Today's Schedule
+
 - Announcements
-- Code Review *[30 minutes]*
-- [CSS Animations](#animations) *[30 minutes]*
-- [Intermediate JS topics](#js) *[30 minutes]*
-- Code demo on reinstantiation & analysis of lab code *[60 minutes]*
+- Code Review _[30 minutes]_
+- [CSS Animations](#animations) _[30 minutes]_
+- [Intermediate JS topics](#js) _[30 minutes]_
+- Code demo on reinstantiation & analysis of lab code _[60 minutes]_
 
 **Learning Objectives**
 
 As a result of completing Lecture 14 of Code 201, students will:
+
 - Be able to demonstrate understanding of JavaScript inheritance, as measured by a quiz administered in Canvas and the Code 301 entrance exam.
 - Be able to integrate CSS animations into a code project, measured through inclusion in this week’s project or the final project.
 
@@ -37,21 +38,37 @@ As a result of completing Lecture 14 of Code 201, students will:
 
 ## Intermediate JS Topics
 
-* [The State of JS](http://stateofjs.com)
-* [2018 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2018)
-* [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ygr5pmdqy)
-* [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-* [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* IIFEs
-* D.R.Y.
-* [Basics of "pass by value" vs. "pass by reference"](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
-* Prototypal inheritance
-* Scopes & closures
-* Node
+- [The State of JS](http://stateofjs.com)
+- [2018 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2018)
+- [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ygr5pmdqy)
+- [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- IIFEs
+- D.R.Y.
+- [Basics of "pass by value" vs. "pass by reference"](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+- Prototypal inheritance
+- Scopes & closures
+- Node
 
-* Suggested JS readings
-  * [Eloquent JavaScript](http://eloquentjavascript.net/)
-  * [JS, the Good Parts](http://shop.oreilly.com/product/9780596517748.do)
-  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-  * [Eric Elliott's articles on Medium](https://medium.com/@_ericelliott)
-  * [this](http://rainsoft.io/gentle-explanation-of-this-in-javascript)
+- Suggested JS readings
+  - [Eloquent JavaScript](http://eloquentjavascript.net/)
+  - [JS, the Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Eric Elliott's articles on Medium](https://medium.com/@_ericelliott)
+  - [this](http://rainsoft.io/gentle-explanation-of-this-in-javascript)
+
+### Samples of Prior 201 Projects
+
+- [Safe Camp](http://www.safe-camp.org/)
+- [Dev's Demise](https://michaeljahns.github.io/cardGame/index.html)
+- [Happy Home Task Manager](https://ljjolley.github.io/201-Final-Project/)
+- [Play FETCH](https://deliman206.github.io/fetch/)
+- [Let's Play WAR](https://jesslovell.github.io/card-game-war/)
+- [SANDMAN](https://zahram1087.github.io/Sandman/)
+- [Ocean Commotion](http://www.oceancommotion.fun/index.html)
+- [Cultivate](https://michaelageorge.github.io/Cultivate/)
+- [Packing Planner](https://niesssiobhan.github.io/packing-planner/)
+- [Welcome to Seattle](https://peterbreen.github.io/welcome-to-seattle)
+- [Slash Whooo?](http://wohlfea.github.io/cup-game)
+- [Algorithms](https://ztaylor2.github.io/algorithm-teacher)
+- [BroNacho](http://bronacho.com)
